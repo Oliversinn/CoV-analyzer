@@ -1,0 +1,23 @@
+29264 11 11
+0 lcl|NC_045512.2_gene_1 [gene=ORF1ab] [locus_tag=GU280_gp01] [db_xref=GeneID:43740578] [location=266..21555] [gbkey=Gene]
+0 21290 0
+0 lcl|NC_045512.2_gene_2 [gene=S] [locus_tag=GU280_gp02] [db_xref=GeneID:43740568] [location=21563..25384] [gbkey=Gene]
+21290 3822 0
+0 lcl|NC_045512.2_gene_3 [gene=ORF3a] [locus_tag=GU280_gp03] [db_xref=GeneID:43740569] [location=25393..26220] [gbkey=Gene]
+25112 828 0
+0 lcl|NC_045512.2_gene_4 [gene=E] [locus_tag=GU280_gp04] [db_xref=GeneID:43740570] [location=26245..26472] [gbkey=Gene]
+25940 228 0
+0 lcl|NC_045512.2_gene_5 [gene=M] [locus_tag=GU280_gp05] [db_xref=GeneID:43740571] [location=26523..27191] [gbkey=Gene]
+26168 669 0
+0 lcl|NC_045512.2_gene_6 [gene=ORF6] [locus_tag=GU280_gp06] [db_xref=GeneID:43740572] [location=27202..27387] [gbkey=Gene]
+26837 186 0
+0 lcl|NC_045512.2_gene_7 [gene=ORF7a] [locus_tag=GU280_gp07] [db_xref=GeneID:43740573] [location=27394..27759] [gbkey=Gene]
+27023 366 0
+0 lcl|NC_045512.2_gene_8 [gene=ORF7b] [locus_tag=GU280_gp08] [db_xref=GeneID:43740574] [location=27756..27887] [gbkey=Gene]
+27389 132 0
+0 lcl|NC_045512.2_gene_9 [gene=ORF8] [locus_tag=GU280_gp09] [db_xref=GeneID:43740577] [location=27894..28259] [gbkey=Gene]
+27521 366 0
+0 lcl|NC_045512.2_gene_10 [gene=N] [locus_tag=GU280_gp10] [db_xref=GeneID:43740575] [location=28274..29533] [gbkey=Gene]
+27887 1260 0
+0 lcl|NC_045512.2_gene_11 [gene=ORF10] [locus_tag=GU280_gp11] [db_xref=GeneID:43740576] [location=29558..29674] [gbkey=Gene]
+29147 117 0
