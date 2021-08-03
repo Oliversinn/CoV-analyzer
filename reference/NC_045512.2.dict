@@ -1,0 +1,12 @@
+@HD	VN:1.6
+@SQ	SN:lcl|NC_045512.2_gene_1	LN:21290	M5:cbc5724b8fdd5cd9ac2530d888840f73	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_2	LN:3822	M5:6593532f926e48cc68421ef20a33018c	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_3	LN:828	M5:6e54b3a3ce11f1659be582a4154613e8	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_4	LN:228	M5:7bc8bd54f62897a735886ed0d3af742e	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_5	LN:669	M5:9b07b63a36561bdc924b332183ac5c9a	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_6	LN:186	M5:b55a76538d324e3431928dadd36a97f8	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_7	LN:366	M5:12deff40d52f579b4ce1ea73e3bcb571	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_8	LN:132	M5:dd69faf0080b4db54205e871169412b0	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_9	LN:366	M5:af3fe46d0829cdc8cb972e4d90c8e435	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_10	LN:1260	M5:a80198497ac74d3e73e5b286752fb004	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
+@SQ	SN:lcl|NC_045512.2_gene_11	LN:117	M5:2419bebe78bcf49b3ee29a97b800748a	UR:file:/Users/oliver/Documents/GitHub/CoV-analyzer/reference/NC_045512.2.fasta
